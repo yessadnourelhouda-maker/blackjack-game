@@ -1,0 +1,25 @@
+body{
+background-image:url("blackjack.png"); 
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bolder;
+    color: white;
+}
+.blackjack{margin-top:400px;color: red;font-size:200px;}
+button{  font-size: 70px;
+    font-weight: bolder;
+    color:green;
+    height: 150px;width: 550px;
+    background-color:red ;
+    display: flex;
+    margin-left: 1550px;
+    margin-bottom: 50px;
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
